@@ -3,4 +3,5 @@
 ![App Screen](https://i.imgur.com/CSkFGLA.png)
 
 You can also print the grid
-[![App Screen](https://i.imgur.com/pZ2voSe.png)
+
+![App Screen](https://i.imgur.com/pZ2voSe.png)
